@@ -8,7 +8,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/NangTuong/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/NangTuong/Team-Profile-Generator#readme"
+  "homepage": "https://github.com/NangTuong/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
 }
