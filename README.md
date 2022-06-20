@@ -19,3 +19,4 @@ Made By: Bradley Nguyen
 ![screenshot](./src/images/Screenshot%20(8).png)
 
 ## Walkthrough video 
+https://drive.google.com/file/d/109a3Gz0RC3xhkocXdJ9-7NwwxZqSpguq/view
