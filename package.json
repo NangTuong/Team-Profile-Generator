@@ -1,11 +1,10 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A command-line application that dynamically generates a profile page for a company's team.",
   "main": "index.js",
   "directories": {
-    "lib": "lib",
-    "test": "tests"
+    "lib": "lib"
   },
   "scripts": {
     "test": "jest"
@@ -24,6 +23,6 @@
     "jest": "^28.1.1"
   },
   "dependencies": {
-    "inquirer": "^9.0.0"
+    "inquirer": "^7.3.3"
   }
 }

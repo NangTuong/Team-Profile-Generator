@@ -1,0 +1,46 @@
+.container-fluid{
+    background-color:rgb(96, 22, 71);
+    height: 4em;
+}
+
+.page-title{
+    padding-top: 5px;
+    text-align: center;
+    color: white;
+}
+
+.container{
+    margin-top: 1em;
+}
+
+.card{
+    background-color: lightgray;
+    border-color:rgb(96, 22, 71);
+    border-width: 2px;
+    border-radius: 4px;
+}
+
+h5{
+    color: rgb(96, 22, 71);
+    font-size: 1.75rem;
+}
+
+h6 {
+    font-size: 1.5rem;
+}
+
+p,
+a{
+    font-size: 1.25rem;
+    color: rgb(96, 22, 71);
+    font-weight: 600;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
+
+a.github-card-link{
+    line-height: 15px;
+}

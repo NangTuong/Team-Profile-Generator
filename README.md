@@ -17,6 +17,8 @@ Made By: Bradley Nguyen
 ## Screen Shots
 ![screenshot](./src/images/Screenshot%20(7).png)
 ![screenshot](./src/images/Screenshot%20(8).png)
+![screenshot](./src/images/Screenshot%20(9).png)
+![screenshot](./src/images/Screenshot%20(10).png)
 
 ## Walkthrough video 
-https://drive.google.com/file/d/109a3Gz0RC3xhkocXdJ9-7NwwxZqSpguq/view
+https://drive.google.com/file/d/1EmEPXswxzq28UOLS6Lk5hhRujD7P8WkG/view
